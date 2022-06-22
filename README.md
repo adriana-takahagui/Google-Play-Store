@@ -77,7 +77,7 @@ Na segunda tela do dashboard (By Metrics) (vide imagem abaixo), podemos analisar
 
 Aqui também podemos colocar o mouse sobre uma barra do gráfico para extrair mais informações. Ou buscar informações detalhadas clicando em uma barra de qualquer gráfico que se queira analisar. E acompanhar o resumo no quadro "Summary".
 
-## **Conclusão**
+## **Conclusão & Insights**
 
 Principais conclusões e insights que podemos extrair dessas informações:
 - Se definirmos que o app de sucesso é aquele com avaliação acima de 4, sentimento positivo, mais de 1.000 downloads e mais de 1.000 comentários, teremos que o aplicativo deve estar na categoria de jogos (e do tipo ação, seguido do tipo casual) ou um aplicativo que se classifique como ferramenta, de preferência gratuito, e que seja para todas as faixas etárias. 
